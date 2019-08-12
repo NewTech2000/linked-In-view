@@ -1,0 +1,21 @@
+{
+  "name": "linked-in_view",
+  "version": "1.0.0",
+  "description": "linked in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "linked-in"
+  },
+  "keywords": [
+    "linkdein"
+  ],
+  "author": "Nipuna Sachith",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.22.7"
+  }
+}
